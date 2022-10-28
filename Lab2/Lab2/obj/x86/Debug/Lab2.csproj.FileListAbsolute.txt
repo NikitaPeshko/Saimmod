@@ -1,0 +1,37 @@
+C:\Users\Julia\Desktop\Lab2\Lab2\obj\x86\Debug\Lab2.Properties.Resources.resources
+C:\Users\Julia\Desktop\Lab2\Lab2\obj\x86\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\Julia\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Julia\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Julia\Desktop\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Julia\Desktop\Lab2\Lab2\bin\Debug\ZedGraph.dll
+C:\Users\Julia\Desktop\Lab2\Lab2\obj\x86\Debug\Lab2.Form1.resources
+C:\Users\Julia\Desktop\Lab2\Lab2\obj\x86\Debug\Lab2.exe
+C:\Users\Julia\Desktop\Lab2\Lab2\obj\x86\Debug\Lab2.pdb
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab2\Lab2\obj\x86\Debug\Lab2.exe
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab2\Lab2\obj\x86\Debug\Lab2.pdb
+E:\Занятия\7 семестр\Мод\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\Занятия\7 семестр\Мод\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\Занятия\7 семестр\Мод\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\Занятия\7 семестр\Мод\Lab2\Lab2\bin\Debug\ZedGraph.dll
+E:\Занятия\7 семестр\Мод\Lab2\Lab2\obj\x86\Debug\Lab2.csprojAssemblyReference.cache
+E:\Занятия\7 семестр\Мод\Lab2\Lab2\obj\x86\Debug\Lab2.Form1.resources
+E:\Занятия\7 семестр\Мод\Lab2\Lab2\obj\x86\Debug\Lab2.Properties.Resources.resources
+E:\Занятия\7 семестр\Мод\Lab2\Lab2\obj\x86\Debug\Lab2.csproj.GenerateResource.cache
+E:\Занятия\7 семестр\Мод\Lab2\Lab2\obj\x86\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\Занятия\7 семестр\Мод\Lab2\Lab2\obj\x86\Debug\Lab2.csproj.CopyComplete
+E:\Занятия\7 семестр\Мод\Lab2\Lab2\obj\x86\Debug\Lab2.exe
+E:\Занятия\7 семестр\Мод\Lab2\Lab2\obj\x86\Debug\Lab2.pdb
+D:\7sem\Pack\САиММод\Labs\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\7sem\Pack\САиММод\Labs\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\7sem\Pack\САиММод\Labs\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\7sem\Pack\САиММод\Labs\Lab2\Lab2\bin\Debug\ZedGraph.dll
+D:\7sem\Pack\САиММод\Labs\Lab2\Lab2\obj\x86\Debug\Lab2.csproj.AssemblyReference.cache
+D:\7sem\Pack\САиММод\Labs\Lab2\Lab2\obj\x86\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+D:\7sem\Pack\САиММод\Labs\Lab2\Lab2\obj\x86\Debug\Lab2.Form1.resources
+D:\7sem\Pack\САиММод\Labs\Lab2\Lab2\obj\x86\Debug\Lab2.Properties.Resources.resources
+D:\7sem\Pack\САиММод\Labs\Lab2\Lab2\obj\x86\Debug\Lab2.csproj.GenerateResource.cache
+D:\7sem\Pack\САиММод\Labs\Lab2\Lab2\obj\x86\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\7sem\Pack\САиММод\Labs\Lab2\Lab2\obj\x86\Debug\Lab2.csproj.CopyComplete
+D:\7sem\Pack\САиММод\Labs\Lab2\Lab2\obj\x86\Debug\Lab2.exe
+D:\7sem\Pack\САиММод\Labs\Lab2\Lab2\obj\x86\Debug\Lab2.pdb
