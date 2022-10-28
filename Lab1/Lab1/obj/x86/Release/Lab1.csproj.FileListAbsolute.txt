@@ -1,0 +1,34 @@
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab1\Lab1\bin\Release\Lab1.exe.config
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab1\Lab1\bin\Release\Lab1.exe
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab1\Lab1\bin\Release\Lab1.pdb
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab1\Lab1\bin\Release\ZedGraph.dll
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.csprojResolveAssemblyReference.cache
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.Form1.resources
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.Properties.Resources.resources
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.csproj.GenerateResource.Cache
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.exe
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.pdb
+E:\Занятия\Учеба. Кысь\7 семестр\Моделирование\Lab1\Lab1\bin\Release\Lab1.exe.config
+E:\Занятия\Учеба. Кысь\7 семестр\Моделирование\Lab1\Lab1\bin\Release\Lab1.exe
+E:\Занятия\Учеба. Кысь\7 семестр\Моделирование\Lab1\Lab1\bin\Release\Lab1.pdb
+E:\Занятия\Учеба. Кысь\7 семестр\Моделирование\Lab1\Lab1\bin\Release\ZedGraph.dll
+E:\Занятия\Учеба. Кысь\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.csprojAssemblyReference.cache
+E:\Занятия\Учеба. Кысь\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.Form1.resources
+E:\Занятия\Учеба. Кысь\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.Properties.Resources.resources
+E:\Занятия\Учеба. Кысь\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.csproj.GenerateResource.cache
+E:\Занятия\Учеба. Кысь\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.csproj.CoreCompileInputs.cache
+E:\Занятия\Учеба. Кысь\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.csproj.CopyComplete
+E:\Занятия\Учеба. Кысь\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.exe
+E:\Занятия\Учеба. Кысь\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Release\Lab1.pdb
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\bin\Release\Lab1.exe.config
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\bin\Release\Lab1.exe
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\bin\Release\Lab1.pdb
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\bin\Release\ZedGraph.dll
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Release\Lab1.csprojAssemblyReference.cache
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Release\Lab1.Form1.resources
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Release\Lab1.Properties.Resources.resources
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Release\Lab1.csproj.GenerateResource.cache
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Release\Lab1.csproj.CoreCompileInputs.cache
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Release\Lab1.csproj.CopyComplete
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Release\Lab1.exe
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Release\Lab1.pdb

@@ -1,0 +1,25 @@
+C:\Users\Julia\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Julia\Desktop\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Julia\Desktop\Lab1\Lab1\obj\x86\Debug\Lab1.Properties.Resources.resources
+C:\Users\Julia\Desktop\Lab1\Lab1\obj\x86\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Users\Julia\Desktop\Lab1\Lab1\obj\x86\Debug\Lab1.exe
+C:\Users\Julia\Desktop\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
+C:\Users\Julia\Desktop\Lab1\Lab1\obj\x86\Debug\Lab1.Form1.resources
+C:\Users\Julia\Desktop\Lab1\Lab1\obj\x86\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Julia\Desktop\Lab1\Lab1\bin\Debug\ZedGraph.dll
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Debug\Lab1.exe
+D:\ДЛЯ УЧЁБЫ\7 семестр\Моделирование\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\bin\Debug\ZedGraph.dll
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Debug\Lab1.Form1.resources
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Debug\Lab1.Properties.Resources.resources
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Debug\Lab1.csproj.GenerateResource.cache
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Debug\Lab1.csproj.CopyComplete
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Debug\Lab1.exe
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
+E:\Занятия\7 семестр\Мод\Lab1\Lab1\obj\x86\Debug\Lab1.csprojAssemblyReference.cache
