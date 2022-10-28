@@ -1,0 +1,16 @@
+
+_
+java:S1854"BRemove this useless assignment to local variable "simulationTime".(†À‘ì8ï‹ «¿0
+W	java:S125"<This block of commented-out lines of code should be removed.(öÏ£8ËÛ «¿0
+P
+java:S1481"3Remove this unused "simulationTime" local variable.(†À‘ì8ú‹ «¿0
+]	java:S125"<This block of commented-out lines of code should be removed.(∞Àò•¯ˇˇˇˇ8ù‹ «¿0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ê©Üá
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘œ§Ø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰—ªæ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ì£™ï˚ˇˇˇˇ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(≈≠¡ÿ¯ˇˇˇˇ
+W
+java:S1128":Remove this unused import 'saimmod.InputData.inputDouble'.(Ò∫≈‹8ΩìÀ«¿0
+T
+java:S1128"7Remove this unused import 'saimmod.InputData.inputInt'.(¬ÜâÅ8ΩìÀ«¿0

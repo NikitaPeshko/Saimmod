@@ -1,0 +1,19 @@
+
+t
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ’½·ýÿÿÿÿ
+J
+java:S1066`"/Merge this if statement with the enclosing one.(ÀÆóâùÿÿÿÿ
+h
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ðòäé
+D
+java:S1068".Remove this unused "NO_REQUEST" private field.(È¿Óª
+@
+java:S1068"%Remove this unused "l" private field.(ú¾ˆîûÿÿÿÿ
+;
+java:S1068"%Remove this unused "m" private field.(åõ©Ó
+@
+java:S1068"%Remove this unused "d" private field.(äùâ†øÿÿÿÿ
+I
+java:S1068"3Remove this unused "successRequest1" private field.(µ‡žÎ
+N
+java:S1068"3Remove this unused "successRequest2" private field.(º²‹³øÿÿÿÿ
